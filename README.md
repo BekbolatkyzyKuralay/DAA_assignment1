@@ -275,6 +275,7 @@ The following screenshots show the final program output, correctness tests, and 
 ## Program Output
 
 ![Program Output](docs/screenshots/program_output.png)
+![Program Output](docs/screenshots/program_outputt.png)
 
 ## Test Results
 
