@@ -209,13 +209,13 @@ The results show that input type can affect both execution time and recursion be
 
 The following plot shows how execution time changes when the input size increases.
 
-![Time vs n](docs/plots/time_vs_n.png)
+![Time vs n](time_vs_n.png)
 
 ## Plot 2: Recursion Depth vs. n
 
 The following plot shows the maximum recursion depth for increasing input sizes.
 
-![Recursion Depth vs n](docs/plots/depth_vs_n.png)
+![Recursion Depth vs n](depth_vs_n.png)
 
 ---
 
@@ -274,37 +274,37 @@ The following screenshots show the final program output, correctness tests, and 
 
 ## Program Output
 
-![Program Output](docs/screenshots/program_output.png)
-![Program Output](docs/screenshots/program_outputt.png)
+![Program Output](program_output.png)
+![Program Output](program_outputt.png)
 
 ## Test Results
 
 ### Merge Sort Test
 
-![Merge Sort Test](docs/screenshots/mergesort_test.png)
+![Merge Sort Test](mergesort_test.png)
 
 ### QuickSort Test
 
-![QuickSort Test](docs/screenshots/quicksort_test.png)
+![QuickSort Test](quicksort_test.png)
 
 ### Deterministic Select Test
 
-![Deterministic Select Test](docs/screenshots/deterministic_selector_test.png)
+![Deterministic Select Test](deterministic_selector_test.png)
 
 ### Closest Pair Test
 
-![Closest Pair Test](docs/screenshots/closest_pair_test.png)
+![Closest Pair Test](closest_pair_test.png)
 
 ## Plots / Results
 
 ### Experimental Results
 
-![Experimental Results](docs/screenshots/experiment_results.png)
+![Experimental Results](experiment_results.png)
 
 ### Execution Time Plot
 
-![Execution Time Plot](docs/plots/time_vs_n.png)
+![Execution Time Plot](time_vs_n.png)
 
 ### Recursion Depth Plot
 
-![Recursion Depth Plot](docs/plots/depth_vs_n.png)
+![Recursion Depth Plot](depth_vs_n.png)
